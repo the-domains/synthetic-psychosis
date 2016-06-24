@@ -6,9 +6,9 @@ color:
   saturation: 0.36168694449588656
   rhythmicContrast: 0.336461681406945
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: synthetic psychosis
